@@ -27,3 +27,13 @@ The repository is divided in several folders and files, the detail is listed bel
   6. [`Study of the results of the NN for one smaller circle`](Study_of_the_results_of_the_NN/Study_of_the_results_of_the_NN_for_one_smaller_circle.ipynb) is the notebook used to compute the regression results and the KS test for the NN trained on the one smaller circle dataset.
   7. [`Study of the results of the NN for the sphere`](Study_of_the_results_of_the_NN/Study_of_the_results_of_the_NN_for_the_sphere.ipynb) is the notebook used to compute the regression results and the KS test for the NN trained on the one sphere dataset.
   8. [`Study of the results of the NN for the torus`](Study_of_the_results_of_the_NN/Study_of_the_results_of_the_NN_for_the_torus.ipynb) is the notebook used to compute the regression results and the KS test for the NN trained on the one torus dataset.
+
+- **Datasets**
+
+  This folder contains the Python scripts that have been used to generated the data used for the training and testing of the NN.
+
+  - **Training of the VAE**
+    1. [`VAE for smaller circles`](Training_of_the_VAE/VAE_fo_Smaller_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the smaller circles dataset.
+    2. [`VAE for COIL's duck`](Training_of_the_VAE/VAE_for_COILs_duck.ipynb) is the definition and the training of the VAE that predicts PI and images for the rotating duck dataset.
+    3. [`VAE for multiple circles`](Training_of_the_VAE/VAE_for_Multiple_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the multiple circles dataset.
+    4. [`VAE for squares or circles`](Training_of_the_VAE/VAE_for_Squares_and_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the squares or circles dataset.
