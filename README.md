@@ -30,10 +30,12 @@ The repository is divided in several folders and files, the detail is listed bel
 
 - **Datasets**
 
-  This folder contains the Python scripts that have been used to generated the data used for the training and testing of the NN.
+  This folder contains the Python scripts that have been used to generated the data used for the training and testing of the NN. The folder [`COIL's duck`](Datasets/COILs_duck/) are the images of the duck used in this [VAE](Training_of_the_VAE/VAE_for_COILs_duck.ipynb).
 
-  - **Training of the VAE**
+- **Training of the VAE**
     1. [`VAE for smaller circles`](Training_of_the_VAE/VAE_fo_Smaller_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the smaller circles dataset.
     2. [`VAE for COIL's duck`](Training_of_the_VAE/VAE_for_COILs_duck.ipynb) is the definition and the training of the VAE that predicts PI and images for the rotating duck dataset.
     3. [`VAE for multiple circles`](Training_of_the_VAE/VAE_for_Multiple_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the multiple circles dataset.
     4. [`VAE for squares or circles`](Training_of_the_VAE/VAE_for_Squares_and_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the squares or circles dataset.
+
+![nice duck](Datasets/COILs_duck/obj1__0.png)![nice duck](Datasets/COILs_duck/obj1__28.png)![nice duck](Datasets/COILs_duck/obj1__45.png)![nice duck](Datasets/COILs_duck/obj1__57.png)
