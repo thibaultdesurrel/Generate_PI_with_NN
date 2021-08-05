@@ -44,10 +44,10 @@ The repository is divided in several folders and files, the detail is listed bel
     4. [`VAE for squares or circles`](Training_of_the_VAE/VAE_for_Squares_and_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the squares or circles dataset.
 
 - **Study of the results of the VAE**
-  1. [`Study of the results of the VAE for Multiple Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Multiple_Circles.ipynb) is the study of the VAE trained for the multiple circle dataset. We study the results of this VAE ans it's latent distribution.
-  2. [`Study of the results of the VAE for Smaller Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Smaller_Circles.ipynb) is the study of the VAE trained for the smaller circle dataset. We study the results of this VAE ans it's latent distribution.
-  3. [`Study of the results of the VAE for square or circle`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_squares_and_circles.ipynb) is the study of the VAE trained for the square or circle dataset. We study the results of this VAE ans it's latent distribution.
-  4. [`Study of the results of the VAE for the duck`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_the_duck.ipynb) is the study of the VAE trained for COILs duck dataset. We study the results of this VAE ans it's latent distribution.
+  1. [`Study of the results of the VAE for Multiple Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Multiple_Circles.ipynb) is the study of the VAE trained for the multiple circle dataset. We study the results of this VAE and its latent distribution.
+  2. [`Study of the results of the VAE for Smaller Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Smaller_Circles.ipynb) is the study of the VAE trained for the smaller circle dataset. We study the results of this VAE and its latent distribution.
+  3. [`Study of the results of the VAE for square or circle`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_squares_and_circles.ipynb) is the study of the VAE trained for the square or circle dataset. We study the results of this VAE and its latent distribution.
+  4. [`Study of the results of the VAE for the duck`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_the_duck.ipynb) is the study of the VAE trained for COILs duck dataset. We study the results of this VAE and its latent distribution.
 
 <p align="center">
   <img width="128" height="128" src="Datasets/COILs_duck/duck.gif">
