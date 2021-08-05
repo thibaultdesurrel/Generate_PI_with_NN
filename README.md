@@ -2,6 +2,8 @@
 This repository contains the code I have developed during my internship at DataShape.
 The goal was to build a neural network that could predict a persistence image from a point cloud.
 
+<div style="text-align:center"><img src="from_PC_to_PI.png" /></div>
+<br><br>
 The repository is divided in several folders and files, the detail is listed below.
 
  List of the different notebooks
@@ -38,4 +40,10 @@ The repository is divided in several folders and files, the detail is listed bel
     3. [`VAE for multiple circles`](Training_of_the_VAE/VAE_for_Multiple_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the multiple circles dataset.
     4. [`VAE for squares or circles`](Training_of_the_VAE/VAE_for_Squares_and_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the squares or circles dataset.
 
-![nice duck](Datasets/COILs_duck/obj1__0.png)![nice duck](Datasets/COILs_duck/obj1__28.png)![nice duck](Datasets/COILs_duck/obj1__45.png)![nice duck](Datasets/COILs_duck/obj1__57.png)
+- **Study of the results of the VAE**
+  1. [`Study of the results of the VAE for Multiple Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Multiple_Circles.ipynb) is the study of the VAE trained for the multiple circle dataset. We study the results of this VAE ans it's latent distribution.
+  2. [`Study of the results of the VAE for Smaller Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Smaller_Circles.ipynb) is the study of the VAE trained for the smaller circle dataset. We study the results of this VAE ans it's latent distribution.
+  3. [`Study of the results of the VAE for square or circle`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_squares_and_circles.ipynb) is the study of the VAE trained for the square or circle dataset. We study the results of this VAE ans it's latent distribution.
+  4. [`Study of the results of the VAE for the duck`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_the_duck.ipynb) is the study of the VAE trained for COILs duck dataset. We study the results of this VAE ans it's latent distribution.
+  
+<div style="text-align:center"><img src="Datasets/COILs_duck/duck.gif" /></div>
