@@ -46,4 +46,6 @@ The repository is divided in several folders and files, the detail is listed bel
   3. [`Study of the results of the VAE for square or circle`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_squares_and_circles.ipynb) is the study of the VAE trained for the square or circle dataset. We study the results of this VAE ans it's latent distribution.
   4. [`Study of the results of the VAE for the duck`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_the_duck.ipynb) is the study of the VAE trained for COILs duck dataset. We study the results of this VAE ans it's latent distribution.
   
-<div style="text-align:center"><img src="Datasets/COILs_duck/duck.gif" /></div>
+<p align="center">
+  <img width="128" height="128" src="Datasets/COILs_duck/duck.gif">
+</p>
