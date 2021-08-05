@@ -35,7 +35,7 @@ The repository is divided in several folders and files, the detail is listed bel
 
 - **Datasets**
 
-  This folder contains the Python scripts that have been used to generated the data used for the training and testing of the NN. The folder [`COIL's duck`](Datasets/COILs_duck/) are the images of the duck used in this [VAE](Training_of_the_VAE/VAE_for_COILs_duck.ipynb).
+  This folder contains the Python scripts that have been used to generated the data used for the training and testing of the NN. The folder [`COIL's duck`](Datasets/COILs_duck/) are the images of the duck used in this [VAE](Training_of_the_VAE/VAE_for_COILs_duck.ipynb). The other datasets can be found [here](https://drive.google.com/file/d/1Wejm7K7qLNQoKyN2DiArFsTODo6_Fyna/view?usp=sharing).
 
 - **Training of the VAE**
     1. [`VAE for smaller circles`](Training_of_the_VAE/VAE_fo_Smaller_Circles.ipynb) is the definition and the training of the VAE that predicts PI and densities for the smaller circles dataset.
@@ -48,7 +48,7 @@ The repository is divided in several folders and files, the detail is listed bel
   2. [`Study of the results of the VAE for Smaller Circles`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_Smaller_Circles.ipynb) is the study of the VAE trained for the smaller circle dataset. We study the results of this VAE ans it's latent distribution.
   3. [`Study of the results of the VAE for square or circle`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_squares_and_circles.ipynb) is the study of the VAE trained for the square or circle dataset. We study the results of this VAE ans it's latent distribution.
   4. [`Study of the results of the VAE for the duck`](Study_of_the_results_of_the_VAE/Study_of_the_results_of_the_VAE_for_the_duck.ipynb) is the study of the VAE trained for COILs duck dataset. We study the results of this VAE ans it's latent distribution.
-  
+
 <p align="center">
   <img width="128" height="128" src="Datasets/COILs_duck/duck.gif">
 </p>
