@@ -2,7 +2,10 @@
 This repository contains the code I have developed during my internship at DataShape.
 The goal was to build a neural network that could predict a persistence image from a point cloud.
 
-<div style="text-align:center"><img src="from_PC_to_PI.png" /></div>
+<p align="center">
+  <img src="from_PC_to_PI.png">
+</p>
+
 <br><br>
 The repository is divided in several folders and files, the detail is listed below.
 
